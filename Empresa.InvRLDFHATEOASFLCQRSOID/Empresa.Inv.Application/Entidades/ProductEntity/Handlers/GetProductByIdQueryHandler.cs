@@ -28,12 +28,12 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
             //    .Include(p => p.Supplier)
             //    .FirstOrDefaultAsync(p => p.Id == request.Id);
 
-            var product = await (_productRepository.GetAll()
+            var psql = _productRepository.GetAll()
                .Include(p => p.Category)
-               .Include(p => p.Supplier) )
-               .FirstOrDefaultAsync(p => p.Id == request.Id);
+               .Include(p => p.Supplier);
 
-
+            var product = await psql.FirstOrDefaultAsync(p => p.Id == request.Id);
+                                 
 
             return _mapper.Map<ProductDTO>(product);
         }
