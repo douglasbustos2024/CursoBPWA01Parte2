@@ -1,0 +1,152 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Inv\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa..CAF3EC11.Up2Date
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll

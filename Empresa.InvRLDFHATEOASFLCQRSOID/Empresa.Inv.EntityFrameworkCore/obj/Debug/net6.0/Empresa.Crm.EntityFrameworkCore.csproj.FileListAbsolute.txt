@@ -1,0 +1,11 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\bin\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\refint\Empresa.Crm.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Crm.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Crm.EntityFrameworkCore.dll

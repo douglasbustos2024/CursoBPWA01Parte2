@@ -1,0 +1,77 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\bin\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll

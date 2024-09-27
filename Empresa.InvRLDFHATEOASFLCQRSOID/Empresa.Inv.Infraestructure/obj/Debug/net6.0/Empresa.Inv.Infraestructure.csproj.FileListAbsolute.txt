@@ -1,0 +1,90 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.deps.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa..0E37EBEA.Up2Date
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll

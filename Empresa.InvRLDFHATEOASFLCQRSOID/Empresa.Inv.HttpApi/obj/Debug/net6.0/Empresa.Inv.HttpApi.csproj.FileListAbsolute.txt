@@ -1,0 +1,778 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRL\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDF\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOAS\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia 8 y 9 owasp\Empresa.InvRLDFHATEOASFL\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Core.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.ClientModel.dll
+C:\PrysDbustos\cursos\bp\dia9\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.exe
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.deps.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.runtimeconfig.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AspNetCoreRateLimit.Redis.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Core.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MailKit.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\MimeKit.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.ApplicationInsights.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.ClientModel.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.Core.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\bin\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.Empresa.Inv.HttpApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Empresa.Inv.HttpApi.props
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\scopedcss\bundle\Empresa.Inv.HttpApi.styles.css
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa..1B8C77C8.Up2Date
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\refint\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll

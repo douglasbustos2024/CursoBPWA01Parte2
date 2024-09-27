@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Empresa.Crm.EntityFrameworkCore/1.0.0": {
+        "runtime": {
+          "Empresa.Crm.EntityFrameworkCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresa.Crm.EntityFrameworkCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

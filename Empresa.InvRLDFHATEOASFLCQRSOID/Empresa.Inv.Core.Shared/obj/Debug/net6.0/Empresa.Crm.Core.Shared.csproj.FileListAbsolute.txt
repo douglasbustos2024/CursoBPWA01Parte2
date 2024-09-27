@@ -1,0 +1,11 @@
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\bin\Debug\net6.0\Empresa.Crm.Core.Shared.deps.json
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\bin\Debug\net6.0\Empresa.Crm.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\bin\Debug\net6.0\Empresa.Crm.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\refint\Empresa.Crm.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\Empresa.Crm.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp\dia 6 solucion y 7 validaciones y clientes\Empresa.Crm\Empresa.Crm.Core.Shared\obj\Debug\net6.0\ref\Empresa.Crm.Core.Shared.dll

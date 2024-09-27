@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d71Qx5RL7D8p1YCScJvc60q9WuOgZo4Ql1x8s1u8W3I=",
+  "Source": "Empresa.Inv.HttpApi",
+  "BasePath": "_content/Empresa.Inv.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

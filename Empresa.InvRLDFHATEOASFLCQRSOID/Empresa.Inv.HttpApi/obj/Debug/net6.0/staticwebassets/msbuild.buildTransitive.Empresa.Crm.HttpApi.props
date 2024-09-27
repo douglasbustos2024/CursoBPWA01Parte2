@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Empresa.Crm.HttpApi.props" />
+</Project>

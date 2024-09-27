@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.EntityFrameworkCore\\Empresa.Inv.EntityFrameworkCore.csproj": {}
+  },
+  "projects": {
+    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj",
+        "projectName": "Empresa.Inv.Application.Shared",
+        "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj",
+        "packagesPath": "C:\\Users\\douglas.bustos\\.nuget\\packages\\",
+        "outputPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\douglas.bustos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
+        "projectName": "Empresa.Inv.Core",
+        "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
+        "packagesPath": "C:\\Users\\douglas.bustos\\.nuget\\packages\\",
+        "outputPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\douglas.bustos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.EntityFrameworkCore\\Empresa.Inv.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.EntityFrameworkCore\\Empresa.Inv.EntityFrameworkCore.csproj",
+        "projectName": "Empresa.Inv.EntityFrameworkCore",
+        "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.EntityFrameworkCore\\Empresa.Inv.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\douglas.bustos\\.nuget\\packages\\",
+        "outputPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\douglas.bustos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj": {
+                "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj"
+              },
+              "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {
+                "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[6.36.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.ApplicationInsights": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.36.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
