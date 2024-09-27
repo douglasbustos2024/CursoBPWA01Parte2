@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {}
+    "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {}
   },
   "projects": {
-    "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {
+    "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
+        "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
         "projectName": "Empresa.Inv.Core",
-        "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
+        "projectPath": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\Empresa.Inv.Core.csproj",
         "packagesPath": "C:\\Users\\douglas.bustos\\.nuget\\packages\\",
-        "outputPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\obj\\",
+        "outputPath": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -23,10 +23,17 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
 
         public async Task<ProductDTO> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
         {
-            var product = await _productRepository.GetAll()
-                .Include(p => p.Category)
-                .Include(p => p.Supplier)
-                .FirstOrDefaultAsync(p => p.Id == request.Id);
+            //var product = await _productRepository.GetAll()
+            //    .Include(p => p.Category)
+            //    .Include(p => p.Supplier)
+            //    .FirstOrDefaultAsync(p => p.Id == request.Id);
+
+            var product = await (_productRepository.GetAll()
+               .Include(p => p.Category)
+               .Include(p => p.Supplier) )
+               .FirstOrDefaultAsync(p => p.Id == request.Id);
+
+
 
             return _mapper.Map<ProductDTO>(product);
         }
