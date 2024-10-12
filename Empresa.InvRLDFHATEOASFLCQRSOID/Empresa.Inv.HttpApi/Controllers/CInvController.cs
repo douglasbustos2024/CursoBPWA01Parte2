@@ -17,7 +17,7 @@ namespace Empresa.Inv.HttpApi.Controllers
     {
         private readonly IInvAppService _productsAppService;
         private readonly LinkGenerator _linkGenerator;
-        private readonly IMapper _mapper;
+     
         private readonly IMediator _mediator;
 
         public CInvController(IInvAppService productsAppService, 
@@ -27,7 +27,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         {
             _productsAppService = productsAppService;
             _linkGenerator = linkGenerator;
-            _mapper = mapper;
+            
             _mediator = mediator;
         }
 
@@ -52,8 +52,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             var resourceList = new List<ProductHmResourceDto>();
             foreach (var product in productList)
             {
-               /* var productHDto = _mapper.Map<ProductDTO>(product);*/  // Mapeo de ProductDTO a ProductHDTO
-                var resource = CreateProductResource(product);  // Crear recurso HATEOAS
+                 var resource = CreateProductResource(product);  // Crear recurso HATEOAS
                 resourceList.Add(resource);
             }
 
@@ -74,26 +73,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
 
-        //// Create a new product
-        //[HttpPost("CreateProduct")]
-        //public async Task<IActionResult> CreateProduct([FromBody] ProductDTO productDto)
-        //{
-        //    if (productDto == null)
-        //    {
-        //        return BadRequest("Request body cannot be null.");
-        //    }
-
-        //    // Call the service to create the product
-        //    var product = await _productsAppService.CreateProductAsync(productDto);
-
-        //    // Create the HATEOAS resource for the new product
-        //    var resource = CreateProductResource(_mapper.Map<ProductDTO>(product));
-
-        //    // Return the newly created resource with the links
-        //    return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, resource);
-        //}
-
-
+        
 
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProductCommand command)
@@ -116,25 +96,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         }
 
 
-        // ==========================
-        // ACTIONS FOR INDIVIDUAL RESOURCES (PRODUCTS)
-        // ==========================
-
-        // Get a product by its ID with HATEOAS
-        //[HttpGet("GetProductById/{id}")]
-        //public async Task<IActionResult> GetProductById(int id)
-        //{
-        //    var product = await _productsAppService.GetProductDetailsByIdAsync(id);
-        //    if (product == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    // Create the HATEOAS resource for this specific product
-        //    var resource = CreateProductResource(_mapper.Map<ProductDTO>(product));
-
-        //    return Ok(resource);
-        //}
+ 
 
         // Update a product by its ID
         [HttpPut("UpdateProduct/{id}")]
@@ -162,10 +124,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             return NoContent();
         }
 
-        // ==========================
-        // HELPER METHODS
-        // ==========================
-
+       
         // Create HATEOAS resource for a product
         private ProductHmResourceDto CreateProductResource(ProductDto product)
         {

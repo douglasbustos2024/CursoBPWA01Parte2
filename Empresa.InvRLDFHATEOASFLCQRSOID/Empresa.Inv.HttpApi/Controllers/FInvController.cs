@@ -58,8 +58,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             var resourceList = new List<ProductHmResourceDto>();
             foreach (var product in productList)
             {
-               /* var productHDto = _mapper.Map<ProductDTO>(product);*/  // Mapeo de ProductDTO a ProductHDTO
-                var resource = CreateProductResource(product);  // Crear recurso HATEOAS
+                 var resource = CreateProductResource(product);  // Crear recurso HATEOAS
                 resourceList.Add(resource);
             }
 
@@ -205,24 +204,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
 
-
-        [HttpGet]
-        [Route("api/testException")]
-        public IActionResult TestException()
-        {
-            try
-            {
-                // Simular una excepción
-                throw new Exception("Test exception");
-            }
-            catch (Exception ex)
-            {
-                // Enviar la excepción a Application Insights
-                _telemetryClient.TrackException(ex);
-                return StatusCode(500, "Exception logged");
-            }
-        }
-
+  
 
 
     }

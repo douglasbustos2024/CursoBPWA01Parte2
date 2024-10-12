@@ -140,15 +140,12 @@ namespace Empresa.Inv.HttpApi.Controllers
                 {
                     answer = true;
                 }
+                else
+                    return Unauthorized(new { IsValid = false, Message = "Error al generar." });
 
-                // Si el token es válido, puedes retornar información adicional si lo deseas
-                //return Ok(new
-                //{
-                //    IsValid = true,
-                //    Claims = claimsPrincipal.Claims.Select(c => new { c.Type, c.Value })
-                //});
 
-                  returned = StatusCode(StatusCodes.Status201Created, new { isSuccess = answer, Claims = claimsPrincipal.Claims.Select(c => new { c.Type, c.Value }) });
+
+                returned = StatusCode(StatusCodes.Status201Created, new { isSuccess = answer, Claims = claimsPrincipal.Claims.Select(c => new { c.Type, c.Value }) });
 
 
             }
@@ -173,7 +170,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             HttpContext.SignOutAsync();
 
             // Limpia cualquier otro estado necesario de la sesión o autenticación
-     //       HttpContext.Session.Clear();
+ 
 
             // Devuelve un mensaje de confirmación
             return Ok(new { message = "Sesión cerrada exitosamente." });

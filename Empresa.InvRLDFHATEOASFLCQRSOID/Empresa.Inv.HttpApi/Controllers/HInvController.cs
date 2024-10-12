@@ -48,8 +48,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             var resourceList = new List<ProductHmResourceDto>();
             foreach (var product in productList)
             {
-               /* var productHDto = _mapper.Map<ProductDTO>(product);*/  // Mapeo de ProductDTO a ProductHDTO
-                var resource = CreateProductResource(product);  // Crear recurso HATEOAS
+                 var resource = CreateProductResource(product);  // Crear recurso HATEOAS
                 resourceList.Add(resource);
             }
 

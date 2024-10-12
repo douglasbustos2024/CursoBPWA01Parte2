@@ -30,10 +30,7 @@ namespace Empresa.Inv.Web.Host
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-
-
-
+                                                   
             // Configuración CORS
             var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>();
             builder.Services.AddCors(options =>
@@ -66,8 +63,7 @@ namespace Empresa.Inv.Web.Host
                 }
                 catch (Exception ee)
                 {
-
-                    throw;
+                    Log.Fatal(ee, "La aplicación falló al iniciar.");
                 }
             }
             else
@@ -102,13 +98,7 @@ namespace Empresa.Inv.Web.Host
 
 
             //// Configuración JWT
-            //var jwtSettings = builder.Configuration.GetSection("JwtSettings").Get<JwtSettingsFile>();
-
-            //if (string.IsNullOrEmpty(jwtSettings.PrivateKeyPath) || string.IsNullOrEmpty(jwtSettings.PublicKeyPath))
-            //{
-            //    throw new InvalidOperationException("Las rutas de las claves públicas o privadas no están configuradas.");
-            //}
-
+    
 
             // Cargar secretos de Key Vault (claves privadas y públicas)
             var jwtSettings = new  JwtSettingsFile
@@ -126,8 +116,7 @@ namespace Empresa.Inv.Web.Host
             builder.Services.Configure<TwoFactorSettings>(builder.Configuration.GetSection("TwoFactorAuthentication"));
 
             // Registro de servicios de configuración
-            //builder.Services.Configure<JwtSettingsFile>(builder.Configuration.GetSection("JwtSettings"));
-            builder.Services.AddSingleton(jwtSettings);
+             builder.Services.AddSingleton(jwtSettings);
 
 
             #region Monitoreo
@@ -148,13 +137,7 @@ namespace Empresa.Inv.Web.Host
 
 
             //// Cargar configuración de appsettings.json
-            //var emailSettings = builder.Configuration.GetSection("EmailSettings").Get<EmailSettings>();
-
-            //// Registrar EmailSettings
-            //builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
-
-
-
+  
 
             // Registro de servicios
             builder.Services.AddScoped<JwtTokenService>();
@@ -197,10 +180,7 @@ namespace Empresa.Inv.Web.Host
                 };
             });
 
-            // Configuración de Serilog
-            //Log.Logger = new LoggerConfiguration()
-            //    .ReadFrom.Configuration(builder.Configuration)
-            //    .CreateLogger();
+ 
 
 
             // Configurar Serilog para usar Application Insights con ConnectionString
