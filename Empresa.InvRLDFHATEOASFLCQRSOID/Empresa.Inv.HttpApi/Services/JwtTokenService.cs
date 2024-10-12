@@ -93,7 +93,7 @@ namespace Empresa.Inv.HttpApi.Services
                 {
                     // Enviar el código de verificación por correo
                     await _emailSender.SendEmailAsync(
-                        user.Email,
+                        user.Email ?? string.Empty,
                         "Código de verificación",
                         $"Tu código de verificación es: {verificationCode}");
                 }
@@ -179,9 +179,13 @@ namespace Empresa.Inv.HttpApi.Services
             var claims = new List<Claim>
         {
             new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-            new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName),
+            new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName ?? string.Empty),
             new Claim("client_type", clientType)
         };
+
+                                                                           
+
+
 
             // Agregar los roles como claims y autorizaciones personalizadas
             var rolesList = user.Roles.Split(',').Select(r => r.Trim()).ToList();

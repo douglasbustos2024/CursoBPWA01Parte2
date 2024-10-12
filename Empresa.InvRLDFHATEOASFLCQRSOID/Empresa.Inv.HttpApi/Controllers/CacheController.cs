@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Empresa.Inv.HttpApi.Services;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Empresa.Inv.HttpApi.Controllers
 {
@@ -20,18 +22,32 @@ namespace Empresa.Inv.HttpApi.Controllers
         /// <param name="key">Clave del cache a limpiar.</param>
         /// <returns>Un mensaje indicando el estado de la operación.</returns>
         [HttpPost("clear-cache")]
-        [ProducesResponseType(StatusCodes.Status200OK)]        // Respuesta 200 OK cuando el logout es exitoso
-        [ProducesResponseType(StatusCodes.Status400BadRequest)] // Respuesta 400 BadRequest si hay algún error
-
+    
         public IActionResult ClearCache([FromQuery] string key)
         {
+
+            ObjectResult returned;
             if (string.IsNullOrEmpty(key))
             {
-                return BadRequest("Cache key must be provided.");
+                //return BadRequest("Cache key must be provided.");
+                returned = StatusCode(StatusCodes.Status400BadRequest, new { isSuccess = true, Message = "Cache key must be provided." });
             }
+                                    
+            try
+            {                  
+                _cacheService.ClearCache(key);
 
-            _cacheService.ClearCache(key);
-            return Ok($"Cache cleared for key: {key}");
+            }
+            catch
+            {
+                returned = StatusCode(StatusCodes.Status400BadRequest, new { isSuccess = true, Message = "Error" });
+            }
+                                         
+
+            returned = StatusCode(StatusCodes.Status200OK, new { isSuccess = true, Message = "Cache cleared for key: {key}" });
+
+            return returned;
+           
         }
 
         /// <summary>
@@ -41,17 +57,24 @@ namespace Empresa.Inv.HttpApi.Controllers
         [HttpPost("clear-all-caches")]
         public IActionResult ClearAllCaches()
         {
+            ObjectResult returned;
 
             try
             {
                 _cacheService.ClearAllCaches();
+
             }
-            catch  
+            catch
             {
-                return BadRequest("Error logout.");
+                returned = StatusCode(StatusCodes.Status400BadRequest, new { isSuccess = true, Message = "Error" });
             }
-            
-            return Ok("All caches cleared.");
+
+
+            returned = StatusCode(StatusCodes.Status200OK, new { isSuccess = true, Message = "All caches cleared." });
+
+            return returned;
+
+                                                     
         }
     }
 }

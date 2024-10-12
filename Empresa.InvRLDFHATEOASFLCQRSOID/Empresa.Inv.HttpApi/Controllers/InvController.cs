@@ -48,7 +48,7 @@ namespace Empresa.Inv.HttpApi.Controllers
                 resultado = await _productsAppService.GetProductDetailsByIdAsync(id);
 
             }
-            catch (Exception eex)
+            catch  
             {
                 return BadRequest("Product ID does not match the URL parameter.");
             }
