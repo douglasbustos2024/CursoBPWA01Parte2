@@ -74,26 +74,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
 
-        //// Create a new product
-        //[HttpPost("CreateProduct")]
-        //public async Task<IActionResult> CreateProduct([FromBody] ProductDTO productDto)
-        //{
-        //    if (productDto == null)
-        //    {
-        //        return BadRequest("Request body cannot be null.");
-        //    }
-
-        //    // Call the service to create the product
-        //    var product = await _productsAppService.CreateProductAsync(productDto);
-
-        //    // Create the HATEOAS resource for the new product
-        //    var resource = CreateProductResource(_mapper.Map<ProductDTO>(product));
-
-        //    // Return the newly created resource with the links
-        //    return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, resource);
-        //}
-
-
+        
 
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProductCommand command)
