@@ -69,7 +69,7 @@ namespace Empresa.Inv.Application
         public async Task<IEnumerable<ProductDto>> GetProductsPagedAsyncEf(
             string searchTerm, int pageNumber, int pageSize)
         {
-            var query = _productsRepository.GetAll();
+            var query = _productsRepository.Query();
 
             // Aplicar filtrado
             if (!string.IsNullOrWhiteSpace(searchTerm))
@@ -92,7 +92,7 @@ namespace Empresa.Inv.Application
         public async Task<ProductDto> GetProductDetailsByIdAsync(int id)
         {
             // Obtener el producto y los datos relacionados en una sola consulta
-            var productQuery =   _productsRepository.GetAll()
+            var productQuery =   _productsRepository.Query()
                 .Where(p => p.Id == id)
                 .Include(p => p.Category)   // Cargar la categoría relacionada
                 .Include(p => p.Supplier)   // Cargar el proveedor relacionado
@@ -151,7 +151,7 @@ namespace Empresa.Inv.Application
                 // Buscar el registro registro que totaliza ese producto
 
                 // Buscar el balance actual del producto
-                var productBalanceQuery = _productBalances.GetAll()
+                var productBalanceQuery = _productBalances.Query()
                     .Where(pb => pb.ProductId == productId);
 
                 var productBalance =await productBalanceQuery.FirstOrDefaultAsync();
@@ -217,7 +217,7 @@ namespace Empresa.Inv.Application
 
         public async Task<List<UserKardexSummaryDto>> GetKardexSummaryByUserAsync(DateTime startDate, DateTime endDate)
         {
-            var query =  _productKardexesRepository.GetAll()
+            var query =  _productKardexesRepository.Query()
                 .Where(k => k.Created >= startDate && k.Created <= endDate)
                 .GroupBy(k => k.UserId)
                 .Select(g => new UserKardexSummaryDto
@@ -238,7 +238,7 @@ namespace Empresa.Inv.Application
         public async Task<List<ProductDto>> GetFullProductsAsync(
           string? searchTerm, int pageNumber, int pageSize)
         {
-            var query = _productsRepository.GetAll().AsQueryable();
+            var query = _productsRepository.Query();
 
             // Aplicar filtrado
             if (!string.IsNullOrWhiteSpace(searchTerm))
@@ -317,7 +317,7 @@ namespace Empresa.Inv.Application
         public async Task<ProductDto> GetProductByIdAsync(int id)
         {
             // Obtener el producto por ID
-            var query =  _productsRepository.GetAll().Where(p => p.Id == id)
+            var query =  _productsRepository.Query().Where(p => p.Id == id)
                 .Include(p => p.Category)
                 .Include(p => p.Supplier);
                 

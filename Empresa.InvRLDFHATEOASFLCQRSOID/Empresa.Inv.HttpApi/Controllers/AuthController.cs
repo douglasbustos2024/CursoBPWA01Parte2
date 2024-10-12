@@ -41,7 +41,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
             //var user = logServ.AuthenticateUser(login);
 
-            var userDb =await _userRepository.GetAll().Where(u=>u.UserName==login.UserName && u.Password==login.Password ).FirstOrDefaultAsync();
+            var userDb =await _userRepository.Query().Where(u=>u.UserName==login.UserName && u.Password==login.Password ).FirstOrDefaultAsync();
 
             if (userDb == null)
                 return Unauthorized();
@@ -96,7 +96,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         {
             var ret = new UserDTO();
 
-           var userByUserName =await _userRepository.GetAll().Where(u => u.UserName == username).FirstOrDefaultAsync();
+           var userByUserName =await _userRepository.Query().Where(u => u.UserName == username).FirstOrDefaultAsync();
 
             if (userByUserName != null)
             {

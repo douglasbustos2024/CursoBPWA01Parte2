@@ -23,7 +23,7 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
 
         public async Task<ProductDto> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
         {
-            var product =   _productRepository.GetAll()
+            var product =   _productRepository.Query()
                 .Include(p => p.Category)
                 .Include(p => p.Supplier);
 

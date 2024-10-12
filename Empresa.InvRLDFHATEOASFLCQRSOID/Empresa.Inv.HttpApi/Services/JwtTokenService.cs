@@ -80,7 +80,7 @@ namespace Empresa.Inv.HttpApi.Services
                 //userDb.TwoFactorCode  = user.TwoFactorCode;
                 //userDb.TwoFactorExpiry = user.TwoFactorExpiry;
 
-                var userDb = await _userRepository.GetAll().Where(x => x.Id == user.Id).FirstOrDefaultAsync();
+                var userDb = await _userRepository.Query().Where(x => x.Id == user.Id).FirstOrDefaultAsync();
 
                 if (userDb != null)
                 {

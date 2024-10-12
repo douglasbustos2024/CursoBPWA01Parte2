@@ -4,7 +4,7 @@ namespace Empresa.Inv.EntityFrameworkCore
 {
     public interface IRepository<T> where T : class
     {
-        IQueryable<T> GetAll();
+        IQueryable<T> Query();
         Task<List<T>> GetAllAsync(); // Agregado para obtener todos los registros de manera asincrónica
 
         IQueryable<T> Find(Expression<Func<T, bool>> predicate);

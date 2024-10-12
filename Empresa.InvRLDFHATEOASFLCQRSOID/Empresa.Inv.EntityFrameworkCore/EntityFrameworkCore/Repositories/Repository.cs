@@ -19,7 +19,7 @@ namespace Empresa.Inv.EntityFrameworkCore.Repositories
             _dbSet = _context.Set<T>();
         }
 
-        public IQueryable<T> GetAll()
+        public IQueryable<T> Query()
         {
             return _dbSet.AsQueryable();
         }
