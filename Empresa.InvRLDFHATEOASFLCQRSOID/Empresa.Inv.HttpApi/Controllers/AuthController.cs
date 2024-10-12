@@ -37,7 +37,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel login)
         {
-            LoginServices logServ = new LoginServices();                    
+                       
 
             var userDb =await _userRepository.Query().Where(u=>u.UserName==login.UserName && u.Password==login.Password ).FirstOrDefaultAsync();
 

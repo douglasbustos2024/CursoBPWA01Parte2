@@ -25,7 +25,7 @@ using Azure.Identity;
 
 namespace Empresa.Inv.Web.Host
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
@@ -110,7 +110,6 @@ namespace Empresa.Inv.Web.Host
 
 
             // Configuración de TwoFactorSettings
-            var twoFactorSettings = builder.Configuration.GetSection("TwoFactorAuthentication").Get<TwoFactorSettings>();
             builder.Services.Configure<TwoFactorSettings>(builder.Configuration.GetSection("TwoFactorAuthentication"));
 
             // Registro de servicios de configuración
@@ -152,7 +151,7 @@ namespace Empresa.Inv.Web.Host
 
             // Autenticación JWT
             var privateKeyContent = jwtSettings.PrivateKey;
-            var publicKeyContent = jwtSettings.PublicKey;
+          
 
             RSA rsa = RSA.Create();
             rsa.ImportFromPem(privateKeyContent.ToCharArray());

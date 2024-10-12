@@ -18,7 +18,11 @@ namespace Empresa.Inv.HttpApi.Services
 
         public void OnAuthorization(AuthorizationFilterContext context)
         {
-            var token = context.HttpContext.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
+
+            var authorizationHeader = context.HttpContext.Request.Headers["Authorization"].FirstOrDefault();
+            var token = authorizationHeader?.Split(' ').Length > 1 ? authorizationHeader.Split(' ')[1] : null;
+                                                                                                                  
+                                              
 
             if (token != null)
             {
@@ -51,7 +55,7 @@ namespace Empresa.Inv.HttpApi.Services
                 catch (Exception)
                 {
                     context.Result = new UnauthorizedResult();
-                    return;
+           
                 }
             }
             else
