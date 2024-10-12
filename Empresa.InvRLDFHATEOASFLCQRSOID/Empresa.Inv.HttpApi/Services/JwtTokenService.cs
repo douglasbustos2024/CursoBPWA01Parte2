@@ -23,8 +23,8 @@ namespace Empresa.Inv.HttpApi.Services
         private readonly JwtSettingsFile _jwtSettings;
         private readonly TwoFactorSettings _twoFactorSettings;
         private readonly IEmailSender _emailSender; // Servicio para enviar correos electrónicos
-        private RSA _privateKey;
-        private RSA _publicKey;
+        private readonly RSA _privateKey;
+        private readonly RSA _publicKey;
         private readonly IRepository<RefreshToken> _refreshTokenRepository;
         private readonly IRepository<User> _userRepository;
 

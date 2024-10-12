@@ -12,15 +12,12 @@ namespace Empresa.Inv.EntityFrameworkCore
 {
     public class ProductCustomRepository : Repository<Product>, IProductCustomRepository
     {
-        private readonly IMapper _mapper;
-
-        private readonly IUnitOfWork _uow;
+        private readonly IMapper _mapper;       
                            
         public ProductCustomRepository(ApplicationDbContext context, IUnitOfWork uow,
             IMapper mapper) : base(context)
         {
-            _mapper = mapper;
-            _uow = uow;
+            _mapper = mapper;    
         }
                            
 

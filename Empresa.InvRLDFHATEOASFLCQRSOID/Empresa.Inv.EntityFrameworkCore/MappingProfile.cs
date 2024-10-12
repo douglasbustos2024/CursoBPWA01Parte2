@@ -21,14 +21,7 @@ namespace Empresa.Inv.EntityFrameworkCore
             CreateMap<ProductHmDto, ProductDto>().ReverseMap();
              
 
-            CreateMap<UserDTO, User>().ReverseMap();
-
-
-            // Puedes agregar más configuraciones de mapeo aquí
-            // Ejemplo:
-            // CreateMap<OtherEntity, OtherDTO>();
-            // CreateMap<OtherDTO, OtherEntity>();
-
+            CreateMap<UserDTO, User>().ReverseMap();        
 
             CreateMap<CreateProductCommand, Product>();
             CreateMap<Product, ProductDto>()

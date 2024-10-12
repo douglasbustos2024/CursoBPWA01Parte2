@@ -69,7 +69,7 @@ namespace Empresa.Inv.Application
         public async Task<IEnumerable<ProductDto>> GetProductsPagedAsyncEf(
             string searchTerm, int pageNumber, int pageSize)
         {
-            var query = _productsRepository.GetAll().AsQueryable();
+            var query = _productsRepository.GetAll();
 
             // Aplicar filtrado
             if (!string.IsNullOrWhiteSpace(searchTerm))
@@ -92,7 +92,7 @@ namespace Empresa.Inv.Application
         public async Task<ProductDto> GetProductDetailsByIdAsync(int id)
         {
             // Obtener el producto y los datos relacionados en una sola consulta
-            var productDto = await _productsRepository.GetAll()
+            var productQuery =   _productsRepository.GetAll()
                 .Where(p => p.Id == id)
                 .Include(p => p.Category)   // Cargar la categoría relacionada
                 .Include(p => p.Supplier)   // Cargar el proveedor relacionado
@@ -103,8 +103,9 @@ namespace Empresa.Inv.Application
                     Price = p.Price,  // inspecciona la autorizacion y si le envio
                     CategoryName = string.IsNullOrWhiteSpace(p.Category.Name) ? "No Category" : p.Category.Name, // Validar y proporcionar valor predeterminado
                     SupplierName = string.IsNullOrWhiteSpace(p.Supplier.Name) ? "No Supplier" : p.Supplier.Name  // Validar y proporcionar valor predeterminado
-                })
-                .FirstOrDefaultAsync();
+                });
+
+             var productDto = await productQuery.FirstOrDefaultAsync();
 
 
             if (productDto == null)
@@ -150,9 +151,10 @@ namespace Empresa.Inv.Application
                 // Buscar el registro registro que totaliza ese producto
 
                 // Buscar el balance actual del producto
-                var productBalance = await _productBalances.GetAll()
-                    .Where(pb => pb.ProductId == productId)
-                    .FirstOrDefaultAsync();
+                var productBalanceQuery = _productBalances.GetAll()
+                    .Where(pb => pb.ProductId == productId);
+
+                var productBalance =await productBalanceQuery.FirstOrDefaultAsync();
 
                 if (productBalance != null)
                 {
@@ -215,7 +217,7 @@ namespace Empresa.Inv.Application
 
         public async Task<List<UserKardexSummaryDto>> GetKardexSummaryByUserAsync(DateTime startDate, DateTime endDate)
         {
-            var result = await _productKardexesRepository.GetAll()
+            var query =  _productKardexesRepository.GetAll()
                 .Where(k => k.Created >= startDate && k.Created <= endDate)
                 .GroupBy(k => k.UserId)
                 .Select(g => new UserKardexSummaryDto
@@ -224,8 +226,8 @@ namespace Empresa.Inv.Application
                     CantidadMovimientos = g.Count(),
                     TotalIngresos = g.Sum(k => k.TipoId == 1 ? k.Amount : 0),
                     TotalEgresos = g.Sum(k => k.TipoId == 2 ? k.Amount : 0)
-                })
-                .ToListAsync();
+                });
+              var result =await   query.ToListAsync();
 
             return result;
         }
@@ -245,21 +247,21 @@ namespace Empresa.Inv.Application
             }
 
             // Aplicar paginación
-            var products = await query
-                .Include(p => p.Category)   // Cargar la categoría relacionada
-                .Include(p => p.Supplier)   // Cargar el proveedor relacionado
-                .OrderBy(p => p.Name)       // Ordenar por algún criterio
-                .Skip((pageNumber - 1) * pageSize)
-                .Take(pageSize)
-                  .Select(p => new ProductDto
-                  {
-                      Id = p.Id,
-                      Name = p.Name,
-                      Price = p.Price,
-                      CategoryName = string.IsNullOrWhiteSpace(p.Category.Name) ? "No Category" : p.Category.Name, // Validar y proporcionar valor predeterminado
-                      SupplierName = string.IsNullOrWhiteSpace(p.Supplier.Name) ? "No Supplier" : p.Supplier.Name  // Validar y proporcionar valor predeterminado
-                  })
-                    .ToListAsync();
+           var queryT = query
+              .Include(p => p.Category)   // Cargar la categoría relacionada
+              .Include(p => p.Supplier)   // Cargar el proveedor relacionado
+              .OrderBy(p => p.Name)       // Ordenar por algún criterio
+              .Skip((pageNumber - 1) * pageSize)
+              .Take(pageSize)
+                .Select(p => new ProductDto
+                {
+                    Id = p.Id,
+                    Name = p.Name,
+                    Price = p.Price,
+                    CategoryName = string.IsNullOrWhiteSpace(p.Category.Name) ? "No Category" : p.Category.Name, // Validar y proporcionar valor predeterminado
+                    SupplierName = string.IsNullOrWhiteSpace(p.Supplier.Name) ? "No Supplier" : p.Supplier.Name  // Validar y proporcionar valor predeterminado
+                });
+               var products = await queryT.ToListAsync();
 
 
 
@@ -315,10 +317,12 @@ namespace Empresa.Inv.Application
         public async Task<ProductDto> GetProductByIdAsync(int id)
         {
             // Obtener el producto por ID
-            var product = await _productsRepository.GetAll()
+            var query =  _productsRepository.GetAll().Where(p => p.Id == id)
                 .Include(p => p.Category)
-                .Include(p => p.Supplier)
-                .FirstOrDefaultAsync(p => p.Id == id);
+                .Include(p => p.Supplier);
+                
+
+            var product = await query.FirstOrDefaultAsync();
 
             if (product == null)
                 throw new KeyNotFoundException($"Producto con ID {id} no encontrado.");
@@ -339,8 +343,8 @@ namespace Empresa.Inv.Application
                 throw new ArgumentNullException(nameof(productDto));
 
             // Buscar el producto existente
-            var existingProduct = await _productsRepository.GetAll()
-                .FirstOrDefaultAsync(p => p.Id == id);
+            var existingProduct = await _productsRepository.GetByIdAsync(id);
+                
 
             if (existingProduct == null)
                 throw new KeyNotFoundException($"Producto con ID {id} no encontrado.");
@@ -365,8 +369,7 @@ namespace Empresa.Inv.Application
         public async Task<bool> DeleteProductAsync(int id)
         {
             // Buscar el producto existente
-            var existingProduct = await _productsRepository.GetAll()
-                .FirstOrDefaultAsync(p => p.Id == id);
+            var existingProduct = await _productsRepository.GetByIdAsync(id);         
 
             if (existingProduct == null)
                 throw new KeyNotFoundException($"Producto con ID {id} no encontrado.");

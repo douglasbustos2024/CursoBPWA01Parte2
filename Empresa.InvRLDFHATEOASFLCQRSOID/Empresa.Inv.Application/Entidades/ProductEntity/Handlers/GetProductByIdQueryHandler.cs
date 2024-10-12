@@ -29,7 +29,7 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
 
             var result = await product.FirstOrDefaultAsync(p => p.Id == request.Id);
 
-            return _mapper.Map<ProductDto>(product);
+            return _mapper.Map<ProductDto>(result);
         }
     }
  
