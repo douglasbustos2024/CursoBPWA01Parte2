@@ -40,7 +40,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         public async Task<IActionResult> GetProductNames(int id)
         {
 
-            ProductDto resultado = new ProductDto();
+            ProductDto resultado ;
 
 
             try

@@ -3,13 +3,13 @@
 using Empresa.Inv.EntityFrameworkCore.Repositories;
 using Microsoft.EntityFrameworkCore.Storage;
 
+
 namespace Empresa.Inv.EntityFrameworkCore
 {
-    public class UnitOfWork : IUnitOfWork, IDisposable
+    public class UnitOfWork : IUnitOfWork  // Eliminar IDisposable aquí
     {
         private readonly ApplicationDbContext _context;
         private readonly Dictionary<Type, object> _repositories = new();
-
         private IDbContextTransaction? _transaction;
         private bool _disposed = false;  // Controla si ya fue liberado
 
@@ -25,7 +25,6 @@ namespace Empresa.Inv.EntityFrameworkCore
                 var repositoryInstance = new Repository<T>(_context);
                 _repositories.Add(typeof(T), repositoryInstance);
             }
-
             return (IRepository<T>)_repositories[typeof(T)];
         }
 
@@ -76,12 +75,9 @@ namespace Empresa.Inv.EntityFrameworkCore
                     _context.Dispose();
                     _transaction?.Dispose();
                 }
-
                 // Marcar que ya se liberó
                 _disposed = true;
             }
         }
     }
-
-
 }

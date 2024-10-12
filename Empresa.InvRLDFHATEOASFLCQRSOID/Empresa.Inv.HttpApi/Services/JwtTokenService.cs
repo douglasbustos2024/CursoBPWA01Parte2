@@ -45,9 +45,20 @@ namespace Empresa.Inv.HttpApi.Services
             var publicKeyPem = _jwtSettings.PublicKey;
 
             _privateKey = RSA.Create();
+
+            if (string.IsNullOrWhiteSpace(privateKeyPem))
+            {
+                throw new InvalidOperationException("La clave privada PEM no puede ser nula o vacía.");
+            }
+
             _privateKey.ImportFromPem(privateKeyPem.ToCharArray());
 
             _publicKey = RSA.Create();
+
+            if (string.IsNullOrWhiteSpace(publicKeyPem))
+            {
+                throw new InvalidOperationException("La clave privada PEM no puede ser nula o vacía.");
+            }
             _publicKey.ImportFromPem(publicKeyPem.ToCharArray());
 
           
@@ -255,12 +266,12 @@ namespace Empresa.Inv.HttpApi.Services
         // Métodos para obtener el emisor, audiencia y clave pública
         public string GetIssuer()
         {
-            return _jwtSettings.Issuer; // Obtener del archivo de configuración
+            return _jwtSettings.Issuer ?? string.Empty; // Obtener del archivo de configuración
         }
 
         public string GetAudience()
         {
-            return _jwtSettings.Audience; // Obtener del archivo de configuración
+            return _jwtSettings.Audience??string.Empty; // Obtener del archivo de configuración
         }
 
         public RsaSecurityKey GetPublicKey()

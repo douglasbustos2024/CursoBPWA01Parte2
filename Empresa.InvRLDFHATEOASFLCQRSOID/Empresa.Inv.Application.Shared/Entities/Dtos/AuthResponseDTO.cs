@@ -12,7 +12,7 @@
     public class TokenResponseDto
     {
         public string? AccessToken { get; set; }
-        public RefreshTokenDto RefreshToken { get; set; } = new RefreshTokenDto();
+        public RefreshTokenDto? RefreshToken { get; set; } = new RefreshTokenDto();
     }
 
     public class RefreshTokenDto

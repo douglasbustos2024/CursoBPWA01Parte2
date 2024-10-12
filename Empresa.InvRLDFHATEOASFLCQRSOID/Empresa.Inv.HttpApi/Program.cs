@@ -86,12 +86,12 @@ namespace Empresa.Inv.Web.Host
             // Validar que los secretos se cargaron correctamente
             if (string.IsNullOrWhiteSpace(privateKey) || string.IsNullOrWhiteSpace(publicKey))
             {
-                throw new Exception("Las claves JWT (privada o pública) no se pudieron cargar correctamente desde Azure Key Vault.");
+                throw new InvalidOperationException("Las claves JWT (privada o pública) no se pudieron cargar correctamente desde Azure Key Vault.");
             }
 
             if (string.IsNullOrWhiteSpace(smtpUsername) || string.IsNullOrWhiteSpace(smtpPassword))
             {
-                throw new Exception("Las credenciales de correo electrónico no se pudieron cargar correctamente desde Azure Key Vault.");
+                throw new InvalidOperationException("Las credenciales de correo electrónico no se pudieron cargar correctamente desde Azure Key Vault.");
             }
 
 
