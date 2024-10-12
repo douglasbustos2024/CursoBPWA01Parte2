@@ -17,25 +17,19 @@ namespace Empresa.Inv.HttpApi.Controllers
     {
         private readonly IInvAppService _productsAppService;
                                                                   
-        private readonly ILogger<InvController> _logger;     
-
-        private readonly CacheService _cacheService;
+    
 
 
         public InvController(
-            IInvAppService  productsAppService,
-
-            ILogger<InvController> logger  ,  
-            CacheService cacheService
-
+            IInvAppService  productsAppService 
 
             )
         {
-            _logger = logger;
+             
 
             _productsAppService =  productsAppService;
                                            
-            _cacheService = cacheService;
+        
 
         }
 

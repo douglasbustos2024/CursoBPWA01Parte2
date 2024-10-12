@@ -55,7 +55,7 @@ namespace Empresa.Inv.HttpApi.Services
             _userRepository = userRepository;
         }
    
-        public async Task<TokenResponseDto> GenerateToken(UserDTO user, string clientType)
+        public async Task<TokenResponseDto> GenerateToken(UserDto user, string clientType)
         {
             if (_twoFactorSettings.Enabled)
             {
@@ -70,16 +70,7 @@ namespace Empresa.Inv.HttpApi.Services
 
                 user.TwoFactorCode = verificationCode.ToString();
                 user.TwoFactorExpiry = DateTime.UtcNow.AddMinutes(10); // El código expira en 10 minutos
-
-
-
-                //var userDb = new User();
-                //userDb.Id = user.Id;
-                //userDb.UserName = user.UserName;
-                //userDb.Roles = user.Roles;
-                //userDb.TwoFactorCode  = user.TwoFactorCode;
-                //userDb.TwoFactorExpiry = user.TwoFactorExpiry;
-
+                                                                                   
                 var userDb = await _userRepository.Query().Where(x => x.Id == user.Id).FirstOrDefaultAsync();
 
                 if (userDb != null)
@@ -127,7 +118,7 @@ namespace Empresa.Inv.HttpApi.Services
             }
         }
 
-        private string GeneratePending2FAToken(UserDTO user)
+        private string GeneratePending2FAToken(UserDto user)
         {
             var claims = new List<Claim>
         {
@@ -159,7 +150,7 @@ namespace Empresa.Inv.HttpApi.Services
             return encryptedToken;
         }
 
-        public async Task<TokenResponseDto> ValidateTwoFactorAndGenerateToken(UserDTO user, string code)
+        public async Task<TokenResponseDto> ValidateTwoFactorAndGenerateToken(UserDto user, string code)
         {
             // Verifica si el código es correcto y no ha expirado
             if (user.TwoFactorCode != code || user.TwoFactorExpiry < DateTime.UtcNow)
@@ -183,7 +174,7 @@ namespace Empresa.Inv.HttpApi.Services
             return await GenerateFullToken(user, "user");
         }
 
-        private async Task<TokenResponseDto> GenerateFullToken(UserDTO user, string clientType)
+        private async Task<TokenResponseDto> GenerateFullToken(UserDto user, string clientType)
         {
             var claims = new List<Claim>
         {

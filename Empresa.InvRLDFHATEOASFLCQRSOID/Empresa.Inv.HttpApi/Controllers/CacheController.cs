@@ -38,7 +38,16 @@ namespace Empresa.Inv.HttpApi.Controllers
         [HttpPost("clear-all-caches")]
         public IActionResult ClearAllCaches()
         {
-            _cacheService.ClearAllCaches();
+
+            try
+            {
+                _cacheService.ClearAllCaches();
+            }
+            catch  
+            {
+                return BadRequest("Error logout.");
+            }
+            
             return Ok("All caches cleared.");
         }
     }

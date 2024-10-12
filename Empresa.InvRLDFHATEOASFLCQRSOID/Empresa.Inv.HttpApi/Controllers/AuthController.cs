@@ -37,9 +37,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel login)
         {
-            LoginServices logServ = new LoginServices();
-
-            //var user = logServ.AuthenticateUser(login);
+            LoginServices logServ = new LoginServices();                    
 
             var userDb =await _userRepository.Query().Where(u=>u.UserName==login.UserName && u.Password==login.Password ).FirstOrDefaultAsync();
 
@@ -47,7 +45,7 @@ namespace Empresa.Inv.HttpApi.Controllers
                 return Unauthorized();
 
             // Generar el Access Token y el Refresh Token
-            var user = _mapper.Map<UserDTO>(userDb);
+            var user = _mapper.Map<UserDto>(userDb);
             var tokenResponse =await _jw.GenerateToken(user, login.ClientType);
 
           
@@ -92,15 +90,15 @@ namespace Empresa.Inv.HttpApi.Controllers
                 return Unauthorized(ex.Message);
             }
         }
-        private async Task<UserDTO> GetUserByUsername(string username)
+        private async Task<UserDto> GetUserByUsername(string username)
         {
-            var ret = new UserDTO();
+            var ret = new UserDto();
 
            var userByUserName =await _userRepository.Query().Where(u => u.UserName == username).FirstOrDefaultAsync();
 
             if (userByUserName != null)
             {
-                ret = new UserDTO
+                ret = new UserDto
                 {
                     Id = 2,
                     UserName = userByUserName.UserName,
@@ -167,7 +165,16 @@ namespace Empresa.Inv.HttpApi.Controllers
         public IActionResult Logout()
         {
             // Elimina cualquier cookie de autenticación
-            HttpContext.SignOutAsync();
+
+            try
+            {
+                HttpContext.SignOutAsync();
+            }
+            catch   
+            {
+                return BadRequest("Error logout.");
+            }
+      
 
             // Limpia cualquier otro estado necesario de la sesión o autenticación
  

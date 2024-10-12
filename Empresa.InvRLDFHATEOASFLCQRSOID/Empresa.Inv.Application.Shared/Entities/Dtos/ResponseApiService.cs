@@ -13,8 +13,8 @@
             {
                 StatusCode = statusCode,
                 Success = succes,
-                Message = message,
-                Data = Data
+                Message = message ?? string.Empty, // Asignar valor predeterminado
+                Data = Data ?? new object()        // Asignar objeto vacío en lugar de nul
             };
 
             return result;

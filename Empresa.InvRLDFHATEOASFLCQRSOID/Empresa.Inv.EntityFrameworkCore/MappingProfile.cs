@@ -21,7 +21,7 @@ namespace Empresa.Inv.EntityFrameworkCore
             CreateMap<ProductHmDto, ProductDto>().ReverseMap();
              
 
-            CreateMap<UserDTO, User>().ReverseMap();        
+            CreateMap<UserDto, User>().ReverseMap();        
 
             CreateMap<CreateProductCommand, Product>();
             CreateMap<Product, ProductDto>()

@@ -22,42 +22,36 @@ namespace Empresa.Inv.Application
         private readonly IRepository<Product> _productsRepository;
         private readonly IProductCustomRepository _productCustomRepository;
 
-        private readonly IRepository<Supplier> _supplierRepository;
-        private readonly IRepository<Category> _categoryRepository;
+ 
 
         private readonly IRepository<ProductKardex> _productKardexesRepository;
         private readonly IRepository<ProductBalance> _productBalances;
         private readonly IUnitOfWork _uow;
 
         private readonly IMapper _mapper;
-        private readonly ILogger<InvAppService> _logger;
+ 
 
 
 
         public InvAppService(
 
-            IRepository<Product> productsRepository,
-            IRepository<Supplier> supplierRepository,
-            IRepository<Category> categoryRepository,
+            IRepository<Product> productsRepository,     
             IRepository<ProductKardex> productKardexesRepository,
             IRepository<ProductBalance> productBalances,         
             IProductCustomRepository  productCustomRepository,
 
-            IMapper mapper,
-            ILogger<InvAppService> logger,
+            IMapper mapper,                   
             IUnitOfWork uow                                 
             )
         {
             _productCustomRepository = productCustomRepository;
 
             _productsRepository = productsRepository;
-            _supplierRepository = supplierRepository;
-            _categoryRepository = categoryRepository;
+      ;
             _productKardexesRepository = productKardexesRepository;
             _productBalances = productBalances;
 
-            _mapper = mapper;
-            _logger = logger;
+            _mapper = mapper;         
             _uow = uow;
 
         }

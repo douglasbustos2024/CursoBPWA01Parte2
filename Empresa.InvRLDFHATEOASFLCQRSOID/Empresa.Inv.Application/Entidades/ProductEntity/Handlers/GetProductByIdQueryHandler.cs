@@ -27,7 +27,7 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
                 .Include(p => p.Category)
                 .Include(p => p.Supplier);
 
-            var result = await product.FirstOrDefaultAsync(p => p.Id == request.Id);
+            var result = await product.FirstOrDefaultAsync(p => p.Id == request.Id, cancellationToken);
 
             return _mapper.Map<ProductDto>(result);
         }

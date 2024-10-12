@@ -36,9 +36,7 @@ namespace Empresa.Inv.EntityFrameworkCore
 
         private void LogLongQuery(DbCommand command, CommandExecutedEventData eventData)
         {
-            Log.Information($"Long query: {command.CommandText}. Duration: {eventData.Duration.TotalMilliseconds} ms");
-
-
+            Log.Information("Long query: {CommandText}. Duration: {Duration} ms", command.CommandText, eventData.Duration.TotalMilliseconds);
         }
     }
 

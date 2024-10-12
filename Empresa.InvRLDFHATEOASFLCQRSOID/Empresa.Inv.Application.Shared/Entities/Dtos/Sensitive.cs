@@ -9,8 +9,8 @@ namespace Empresa.Inv.Application.Shared.Entities.Dtos
 
     public class SensitiveSettings
     {
-        public SensitiveJwtSettings JwtSettings { get; set; }
-        public SensitiveEmailSettings EmailSettings { get; set; }
+        public SensitiveJwtSettings JwtSettings { get; set; } = new SensitiveJwtSettings();
+        public SensitiveEmailSettings EmailSettings { get; set; } = new SensitiveEmailSettings();
         public string? ApplicationInsightsConnectionString { get; set; }
     }
 

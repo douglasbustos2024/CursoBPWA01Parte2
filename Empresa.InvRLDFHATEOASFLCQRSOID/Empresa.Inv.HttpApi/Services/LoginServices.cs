@@ -12,11 +12,11 @@ namespace Empresa.Inv.HttpApi.Services
 {
     public class LoginServices
     {             
-        public UserDTO AuthenticateUser(LoginModel login)
+        public UserDto AuthenticateUser(LoginModel login)
         {
             // Aquí deberías autenticar al usuario con tu lógica de negocio
             // Este es solo un ejemplo de usuario
-            var user = new UserDTO
+            var user = new UserDto
             {
                 Id = 2,
                 UserName = "exampleUser",
