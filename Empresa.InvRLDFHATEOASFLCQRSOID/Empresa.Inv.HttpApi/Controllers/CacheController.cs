@@ -20,6 +20,9 @@ namespace Empresa.Inv.HttpApi.Controllers
         /// <param name="key">Clave del cache a limpiar.</param>
         /// <returns>Un mensaje indicando el estado de la operación.</returns>
         [HttpPost("clear-cache")]
+        [ProducesResponseType(StatusCodes.Status200OK)]        // Respuesta 200 OK cuando el logout es exitoso
+        [ProducesResponseType(StatusCodes.Status400BadRequest)] // Respuesta 400 BadRequest si hay algún error
+
         public IActionResult ClearCache([FromQuery] string key)
         {
             if (string.IsNullOrEmpty(key))

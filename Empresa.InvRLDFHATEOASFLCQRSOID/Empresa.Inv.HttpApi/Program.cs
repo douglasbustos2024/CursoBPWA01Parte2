@@ -80,10 +80,8 @@ namespace Empresa.Inv.Web.Host
             var privateKey      = builder.Configuration["JwtSettings-PrivateKey"];
             var publicKey       = builder.Configuration["JwtSettings-PublicKey"];
             var smtpUsername    = builder.Configuration["EmailSettings-Username"];
-            var smtpPassword    = builder.Configuration["EmailSettings-Password"];
-            var appInsightsConnectionString = builder.Configuration["ApplicationInsights-ConnectionStringNew"];
-
-                var tmp = builder.Configuration["ConnectionStrings-DefaultConnection"];
+            var smtpPassword    = builder.Configuration["EmailSettings-Password"];                                
+                                                                                           
 
             // Validar que los secretos se cargaron correctamente
             if (string.IsNullOrWhiteSpace(privateKey) || string.IsNullOrWhiteSpace(publicKey))

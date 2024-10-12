@@ -47,7 +47,7 @@ namespace Empresa.Inv.Application
             _productCustomRepository = productCustomRepository;
 
             _productsRepository = productsRepository;
-      ;
+     
             _productKardexesRepository = productKardexesRepository;
             _productBalances = productBalances;
 
@@ -196,7 +196,7 @@ namespace Empresa.Inv.Application
                 result = true;
 
             }
-            catch (Exception exx)
+            catch  
             {
                 // Si algo falla, revertir los cambios (rollback)
                 await _uow.RollbackTransactionAsync();

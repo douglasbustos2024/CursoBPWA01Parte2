@@ -35,12 +35,24 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
         [HttpGet("GetProductNames/{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]        // Respuesta 200 OK cuando el logout es exitoso
+        [ProducesResponseType(StatusCodes.Status400BadRequest)] // Respuesta 400 BadRequest si hay algún error    
         public async Task<IActionResult> GetProductNames(int id)
         {
 
             ProductDto resultado = new ProductDto();
-            resultado = await _productsAppService.GetProductDetailsByIdAsync(id);
 
+
+            try
+            {
+                resultado = await _productsAppService.GetProductDetailsByIdAsync(id);
+
+            }
+            catch (Exception eex)
+            {
+                return BadRequest("Product ID does not match the URL parameter.");
+            }
+          
             return Ok(resultado);
 
 

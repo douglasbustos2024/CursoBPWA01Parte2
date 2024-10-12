@@ -162,6 +162,8 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
         [HttpPost("logout")]
+        [ProducesResponseType(StatusCodes.Status200OK)]        // Respuesta 200 OK cuando el logout es exitoso
+        [ProducesResponseType(StatusCodes.Status400BadRequest)] // Respuesta 400 BadRequest si hay algún error           
         public IActionResult Logout()
         {
             // Elimina cualquier cookie de autenticación
