@@ -123,7 +123,7 @@ namespace Empresa.Inv.HttpApi.Services
             var claims = new List<Claim>
         {
             new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-            new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName),
+            new Claim(JwtRegisteredClaimNames.UniqueName, user.UserName ?? string.Empty),
             new Claim(ClaimTypes.Role, "pending-2fa") // Indica que 2FA está pendiente
         };
 
@@ -183,12 +183,17 @@ namespace Empresa.Inv.HttpApi.Services
             new Claim("client_type", clientType)
         };
 
-                                                                           
+
 
 
 
             // Agregar los roles como claims y autorizaciones personalizadas
-            var rolesList = user.Roles.Split(',').Select(r => r.Trim()).ToList();
+            var rolesList = (user.Roles ?? string.Empty)
+                         .Split(',')
+                         .Select(r => r.Trim())
+                         .ToList();
+
+
             foreach (var role in rolesList)
             {
                 claims.Add(new Claim(ClaimTypes.Role, role));
@@ -200,6 +205,8 @@ namespace Empresa.Inv.HttpApi.Services
                     claims.Add(new Claim("Permission", permission));
                 }
             }
+
+
 
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = new RsaSecurityKey(_privateKey);

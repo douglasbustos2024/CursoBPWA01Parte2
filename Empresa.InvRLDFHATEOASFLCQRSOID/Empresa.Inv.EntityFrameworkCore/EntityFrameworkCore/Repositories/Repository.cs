@@ -32,11 +32,21 @@ namespace Empresa.Inv.EntityFrameworkCore.Repositories
         public IQueryable<T> Find(Expression<Func<T, bool>> predicate)
         {
             return _dbSet.Where(predicate);
+
+
         }
 
         public async Task<T> GetByIdAsync(int id)
-        {
-            return await _dbSet.FindAsync(id);
+        {                                           
+
+            var entity = await _dbSet.FindAsync(id);
+            if (entity == null)
+            {
+                throw new InvalidOperationException($"Entity with ID {id} not found.");
+            }
+
+            return entity;
+
         }
 
         public async Task AddAsync(T entity)

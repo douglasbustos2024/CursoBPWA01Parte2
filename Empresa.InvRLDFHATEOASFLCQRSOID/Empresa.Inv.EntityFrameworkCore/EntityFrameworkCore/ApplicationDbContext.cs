@@ -12,15 +12,15 @@ namespace Empresa.Inv.EntityFrameworkCore
         {
         }
 
-        public DbSet<Product> Products { get; set; }
-        public DbSet<Category> Categories { get; set; }
-        public DbSet<Supplier> Suppliers { get; set; }
-        public DbSet<RefreshToken> RefreshTokens { get; set; }
+        public DbSet<Product> Products { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
+        public DbSet<Category> Categories { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
+        public DbSet<Supplier> Suppliers { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
+        public DbSet<RefreshToken> RefreshTokens { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<User> Users { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
 
-        public DbSet<ProductBalance> ProductBalances { get; set; }
-        public DbSet<ProductKardex> ProductKardexes { get; set; }
+        public DbSet<ProductBalance> ProductBalances { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
+        public DbSet<ProductKardex> ProductKardexes { get; set; } = null!;  // EF lo inicializa en tiempo de ejecución
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

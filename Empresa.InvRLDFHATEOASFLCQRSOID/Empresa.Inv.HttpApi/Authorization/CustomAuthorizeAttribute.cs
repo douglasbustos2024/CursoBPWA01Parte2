@@ -60,6 +60,9 @@ namespace Empresa.Inv.HttpApi.Services
             }
         }
     }
+
+
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = true, Inherited = true)]
     public class CustomAuthorizeAttribute : TypeFilterAttribute
     {
         public CustomAuthorizeAttribute(string requiredPermission) : base(typeof(CustomAuthorizeFilter))
@@ -67,5 +70,6 @@ namespace Empresa.Inv.HttpApi.Services
             Arguments = new object[] { requiredPermission };
         }
     }
+
 
 }

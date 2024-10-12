@@ -34,10 +34,11 @@ namespace Empresa.Inv.EntityFrameworkCore
             return base.ReaderExecuted(command, eventData, result);
         }
 
-        private void LogLongQuery(DbCommand command, CommandExecutedEventData eventData)
+        private static void LogLongQuery(DbCommand command, CommandExecutedEventData eventData)
         {
             Log.Information("Long query: {CommandText}. Duration: {Duration} ms", command.CommandText, eventData.Duration.TotalMilliseconds);
         }
+
     }
 
 

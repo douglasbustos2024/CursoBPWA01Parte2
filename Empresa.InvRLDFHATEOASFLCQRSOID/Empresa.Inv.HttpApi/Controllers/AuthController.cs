@@ -15,7 +15,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 {
     public class TokenRequest
     {
-        public string Token { get; set; }
+        public string? Token { get; set; }
     }
     [ApiController]
     [Route("api/[controller]")]
@@ -46,7 +46,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
             // Generar el Access Token y el Refresh Token
             var user = _mapper.Map<UserDto>(userDb);
-            var tokenResponse =await _jw.GenerateToken(user, login.ClientType);
+            var tokenResponse =await _jw.GenerateToken(user, login.ClientType??string.Empty);
 
           
 
@@ -117,7 +117,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
         [HttpPost("validate-token")]
-        public async Task<IActionResult> ValidateToken([FromBody] TokenRequest request)
+        public  IActionResult  ValidateToken([FromBody] TokenRequest request)
         {
             if (string.IsNullOrEmpty(request.Token))
             {

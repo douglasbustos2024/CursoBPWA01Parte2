@@ -29,7 +29,6 @@ namespace Empresa.Inv.HttpApi.Controllers
             ObjectResult returned;
             if (string.IsNullOrEmpty(key))
             {
-                //return BadRequest("Cache key must be provided.");
                 returned = StatusCode(StatusCodes.Status400BadRequest, new { isSuccess = true, Message = "Cache key must be provided." });
             }
                                     

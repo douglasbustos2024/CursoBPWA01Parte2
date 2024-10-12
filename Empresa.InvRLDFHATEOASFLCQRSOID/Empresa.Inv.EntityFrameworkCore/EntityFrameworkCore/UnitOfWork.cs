@@ -5,12 +5,13 @@ using Microsoft.EntityFrameworkCore.Storage;
 
 namespace Empresa.Inv.EntityFrameworkCore
 {
-    public class UnitOfWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork, IDisposable
     {
         private readonly ApplicationDbContext _context;
         private readonly Dictionary<Type, object> _repositories = new();
 
-        private IDbContextTransaction _transaction;
+        private IDbContextTransaction? _transaction;
+        private bool _disposed = false;  // Controla si ya fue liberado
 
         public UnitOfWork(ApplicationDbContext context)
         {
@@ -27,7 +28,6 @@ namespace Empresa.Inv.EntityFrameworkCore
 
             return (IRepository<T>)_repositories[typeof(T)];
         }
-
 
         public async Task BeginTransactionAsync()
         {
@@ -59,10 +59,29 @@ namespace Empresa.Inv.EntityFrameworkCore
             return await _context.SaveChangesAsync();
         }
 
+        // Implementación del patrón Dispose
         public void Dispose()
         {
-            _context.Dispose();
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!_disposed)
+            {
+                if (disposing)
+                {
+                    // Liberar recursos administrados
+                    _context.Dispose();
+                    _transaction?.Dispose();
+                }
+
+                // Marcar que ya se liberó
+                _disposed = true;
+            }
         }
     }
+
 
 }
