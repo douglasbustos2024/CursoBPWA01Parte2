@@ -8,7 +8,7 @@ namespace Empresa.Inv.Application.Shared.Entities.Dtos
 {
     public class TwoFactorDto
     {
-        public string Username { get; set; }
-        public string Code { get; set; }
+        public string? Username { get; set; }
+        public string? Code { get; set; }
     }
 }

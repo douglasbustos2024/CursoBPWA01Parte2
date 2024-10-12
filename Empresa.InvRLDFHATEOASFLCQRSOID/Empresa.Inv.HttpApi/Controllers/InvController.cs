@@ -44,7 +44,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         public async Task<IActionResult> GetProductNames(int id)
         {
 
-            ProductDTO resultado = new ProductDTO();
+            ProductDto resultado = new ProductDto();
             resultado = await _productsAppService.GetProductDetailsByIdAsync(id);
 
             return Ok(resultado);

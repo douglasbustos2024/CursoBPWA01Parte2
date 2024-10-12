@@ -5,7 +5,7 @@ namespace Empresa.Inv.Application.Shared.ProductEntity.Queries
 {
   
 
-    public class GetProductByIdQuery : IRequest<ProductDTO>
+    public class GetProductByIdQuery : IRequest<ProductDto>
     {
         public int Id { get; set; }
 

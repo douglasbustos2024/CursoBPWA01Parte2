@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Empresa.Inv.Application.Validators
 {
-    public class ProductValidator : AbstractValidator<ProductDTO>
+    public class ProductValidator : AbstractValidator<ProductDto>
     {
         public ProductValidator()
         {

@@ -150,3 +150,4 @@ C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.E
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.pdb
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.genruntimeconfig.cache
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\ref\Empresa.Inv.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.EntityFrameworkCore\obj\Debug\net6.0\Empresa.Inv.EntityFrameworkCore.sourcelink.json

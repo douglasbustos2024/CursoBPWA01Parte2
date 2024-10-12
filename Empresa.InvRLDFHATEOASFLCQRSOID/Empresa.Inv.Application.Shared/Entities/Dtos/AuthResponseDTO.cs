@@ -1,23 +1,23 @@
 ﻿namespace Empresa.Inv.Dtos
 {
 
-    public class AuthResponseDTO
+    public class AuthResponseDto
     {
         public bool IsSuccess { get; set; }
-        public string AccessToken { get; set; }
-        public string RefreshToken { get; set; }
+        public string? AccessToken { get; set; }
+        public string? RefreshToken { get; set; }
         public DateTime RefreshTokenExpires { get; set; }
     }
 
-    public class TokenResponseDTO
+    public class TokenResponseDto
     {
-        public string AccessToken { get; set; }
-        public RefreshTokenDTO RefreshToken { get; set; }
+        public string? AccessToken { get; set; }
+        public RefreshTokenDto RefreshToken { get; set; }
     }
 
-    public class RefreshTokenDTO
+    public class RefreshTokenDto
     {
-        public string Token { get; set; }
+        public string? Token { get; set; }
         public DateTime Expires { get; set; }
     }
 }

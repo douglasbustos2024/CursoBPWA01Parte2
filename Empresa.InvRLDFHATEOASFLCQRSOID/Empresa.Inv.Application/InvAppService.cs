@@ -66,7 +66,7 @@ namespace Empresa.Inv.Application
 
 
 
-        public async Task<IEnumerable<ProductDTO>> GetProductsPagedAsyncEf(
+        public async Task<IEnumerable<ProductDto>> GetProductsPagedAsyncEf(
             string searchTerm, int pageNumber, int pageSize)
         {
             var query = _productsRepository.GetAll().AsQueryable();
@@ -84,19 +84,19 @@ namespace Empresa.Inv.Application
                 .Take(pageSize)
                 .ToListAsync();
 
-            return _mapper.Map<IEnumerable<ProductDTO>>(products);
+            return _mapper.Map<IEnumerable<ProductDto>>(products);
         }
 
 
 
-        public async Task<ProductDTO> GetProductDetailsByIdAsync(int id)
+        public async Task<ProductDto> GetProductDetailsByIdAsync(int id)
         {
             // Obtener el producto y los datos relacionados en una sola consulta
             var productDto = await _productsRepository.GetAll()
                 .Where(p => p.Id == id)
                 .Include(p => p.Category)   // Cargar la categoría relacionada
                 .Include(p => p.Supplier)   // Cargar el proveedor relacionado
-                .Select(p => new ProductDTO
+                .Select(p => new ProductDto
                 {
                     Id = p.Id,
                     Name = p.Name,
@@ -109,7 +109,7 @@ namespace Empresa.Inv.Application
 
             if (productDto == null)
             {
-                return new ProductDTO();
+                return new ProductDto();
             }
 
 
@@ -233,7 +233,7 @@ namespace Empresa.Inv.Application
 
 
 
-        public async Task<List<ProductDTO>> GetFullProductsAsync(
+        public async Task<List<ProductDto>> GetFullProductsAsync(
           string? searchTerm, int pageNumber, int pageSize)
         {
             var query = _productsRepository.GetAll().AsQueryable();
@@ -251,7 +251,7 @@ namespace Empresa.Inv.Application
                 .OrderBy(p => p.Name)       // Ordenar por algún criterio
                 .Skip((pageNumber - 1) * pageSize)
                 .Take(pageSize)
-                  .Select(p => new ProductDTO
+                  .Select(p => new ProductDto
                   {
                       Id = p.Id,
                       Name = p.Name,
@@ -263,36 +263,36 @@ namespace Empresa.Inv.Application
 
 
 
-            if (products == null) products = new List<ProductDTO>();
+            if (products == null) products = new List<ProductDto>();
 
             return products;
         }
 
       
-        public async Task<List<ProductDTO>> GetProductsSp( string searchTerm,
+        public async Task<List<ProductDto>> GetProductsSp( string searchTerm,
                     int pageNumber = 1,  int pageSize = 10)
         {
             var lista = await _productCustomRepository.GetProductsPagedAsyncSp(searchTerm, pageNumber, pageSize);
           
             
-            return _mapper.Map<List<ProductDTO>>(lista);
+            return _mapper.Map<List<ProductDto>>(lista);
 
        
         }
 
-        public async Task<List<ProductHDTO>> HGetProductsSp(string searchTerm,
+        public async Task<List<ProductHmDto>> HGetProductsSp(string searchTerm,
                   int pageNumber = 1, int pageSize = 10)
         {
             var lista = await _productCustomRepository.GetProductsPagedAsyncSp(searchTerm, pageNumber, pageSize);
 
 
-            return _mapper.Map<List<ProductHDTO>>(lista);
+            return _mapper.Map<List<ProductHmDto>>(lista);
 
 
         }
 
 
-        public async Task<ProductDTO> CreateProductAsync(ProductDTO productDto)
+        public async Task<ProductDto> CreateProductAsync(ProductDto productDto)
         {
             if (productDto == null)
                 throw new ArgumentNullException(nameof(productDto));
@@ -307,12 +307,12 @@ namespace Empresa.Inv.Application
             await _uow.SaveAsync();
 
             // Mapeo de entidad a DTO para el resultado
-            var resultDto = _mapper.Map<ProductDTO>(product);
+            var resultDto = _mapper.Map<ProductDto>(product);
 
             return resultDto;
         }
 
-        public async Task<ProductDTO> GetProductByIdAsync(int id)
+        public async Task<ProductDto> GetProductByIdAsync(int id)
         {
             // Obtener el producto por ID
             var product = await _productsRepository.GetAll()
@@ -324,7 +324,7 @@ namespace Empresa.Inv.Application
                 throw new KeyNotFoundException($"Producto con ID {id} no encontrado.");
 
             // Mapeo de entidad a DTO
-            var productDto = _mapper.Map<ProductDTO>(product);
+            var productDto = _mapper.Map<ProductDto>(product);
 
             return productDto;
         }
@@ -333,7 +333,7 @@ namespace Empresa.Inv.Application
 
 
 
-        public async Task<ProductDTO> UpdateProductAsync(int id, ProductDTO productDto)
+        public async Task<ProductDto> UpdateProductAsync(int id, ProductDto productDto)
         {
             if (productDto == null)
                 throw new ArgumentNullException(nameof(productDto));
@@ -355,7 +355,7 @@ namespace Empresa.Inv.Application
             await _uow.SaveAsync();
 
             // Mapeo de entidad a DTO para el resultado
-            var resultDto = _mapper.Map<ProductDTO>(existingProduct);
+            var resultDto = _mapper.Map<ProductDto>(existingProduct);
 
             return resultDto;
         }

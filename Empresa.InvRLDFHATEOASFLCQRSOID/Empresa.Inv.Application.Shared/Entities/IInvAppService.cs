@@ -9,24 +9,24 @@ namespace Empresa.Inv.Application.Shared.Entities
 {
     public interface IInvAppService
     {
-        Task<List<ProductDTO>> GetFullProductsAsync(string searchTerm, int pageNumber, int pageSize);
-        Task<IEnumerable<ProductDTO>> GetProductsPagedAsyncEf(string searchTerm, int pageNumber, int pageSize);
+        Task<List<ProductDto>> GetFullProductsAsync(string searchTerm, int pageNumber, int pageSize);
+        Task<IEnumerable<ProductDto>> GetProductsPagedAsyncEf(string searchTerm, int pageNumber, int pageSize);
 
-        Task<ProductDTO> GetProductDetailsByIdAsync(int id);
+        Task<ProductDto> GetProductDetailsByIdAsync(int id);
 
         Task<Boolean> UpdateInventAsync(int productId, int typeId, decimal amount, int userId);
 
         Task<List<UserKardexSummaryDto>> GetKardexSummaryByUserAsync(DateTime startDate, DateTime endDate);
 
-        Task<List<ProductDTO>> GetProductsSp(string searchTerm,int pageNumber = 1, int pageSize = 10);
-        Task<List<ProductHDTO>> HGetProductsSp(string searchTerm,int pageNumber = 1, int pageSize = 10);
+        Task<List<ProductDto>> GetProductsSp(string searchTerm,int pageNumber = 1, int pageSize = 10);
+        Task<List<ProductHmDto>> HGetProductsSp(string searchTerm,int pageNumber = 1, int pageSize = 10);
 
 
 
 
-        Task<ProductDTO> CreateProductAsync(ProductDTO productDto);
-        Task<ProductDTO> GetProductByIdAsync(int id);
-        Task<ProductDTO> UpdateProductAsync(int id, ProductDTO productDto);
+        Task<ProductDto> CreateProductAsync(ProductDto productDto);
+        Task<ProductDto> GetProductByIdAsync(int id);
+        Task<ProductDto> UpdateProductAsync(int id, ProductDto productDto);
 
         Task<bool> DeleteProductAsync(int id);
 

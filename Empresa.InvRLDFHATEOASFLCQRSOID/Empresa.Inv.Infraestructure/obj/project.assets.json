@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\Empresa.Inv.Infraestructure.csproj",
+      "projectUniqueName": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\Empresa.Inv.Infraestructure.csproj",
       "projectName": "Empresa.Inv.Infraestructure",
-      "projectPath": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\Empresa.Inv.Infraestructure.csproj",
+      "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\Empresa.Inv.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\douglas.bustos\\.nuget\\packages\\",
-      "outputPath": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\obj\\",
+      "outputPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -558,8 +558,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj": {
-              "projectPath": "C:\\PrysDbustos\\cursos\\bp\\dia 10\\Git2\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj"
+            "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj": {
+              "projectPath": "C:\\PrysDbustos\\cursos\\bp\\GIt10\\D10\\Empresa.InvRLDFHATEOASFLCQRSOID\\Empresa.Inv.Application.Shared\\Empresa.Inv.Application.Shared.csproj"
             }
           }
         }

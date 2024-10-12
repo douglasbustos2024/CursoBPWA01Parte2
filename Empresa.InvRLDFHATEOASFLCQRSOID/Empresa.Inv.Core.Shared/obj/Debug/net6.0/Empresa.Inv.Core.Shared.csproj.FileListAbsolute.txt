@@ -75,3 +75,4 @@ C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.C
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\refint\Empresa.Inv.Core.Shared.dll
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.pdb
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\ref\Empresa.Inv.Core.Shared.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Core.Shared\obj\Debug\net6.0\Empresa.Inv.Core.Shared.sourcelink.json

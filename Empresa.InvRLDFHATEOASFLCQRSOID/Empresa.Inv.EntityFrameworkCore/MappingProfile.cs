@@ -12,13 +12,13 @@ namespace Empresa.Inv.EntityFrameworkCore
         public MappingProfile()
         {
             // Configuración de mapeo para Product
-            CreateMap<Product, ProductDTO>();
+            CreateMap<Product, ProductDto>();
 
-            CreateMap<ProductDTO, Product>();
+            CreateMap<ProductDto, Product>();
 
-            CreateMap<ProductHDTO, Product>().ReverseMap();
+            CreateMap<ProductHmDto, Product>().ReverseMap();
 
-            CreateMap<ProductHDTO, ProductDTO>().ReverseMap();
+            CreateMap<ProductHmDto, ProductDto>().ReverseMap();
              
 
             CreateMap<UserDTO, User>().ReverseMap();
@@ -31,7 +31,7 @@ namespace Empresa.Inv.EntityFrameworkCore
 
 
             CreateMap<CreateProductCommand, Product>();
-            CreateMap<Product, ProductDTO>()
+            CreateMap<Product, ProductDto>()
                 .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category != null ? src.Category.Name : "No Category"))
                 .ForMember(dest => dest.SupplierName, opt => opt.MapFrom(src => src.Supplier != null ? src.Supplier.Name : "No Supplier"));
 

@@ -59,7 +59,7 @@ public class JwtTokenService
         _publicKey.ImportFromPem(publicKeyPem.ToCharArray());
     }
 
-    public async Task<TokenResponseDTO> GenerateToken(UserDTO user, string clientType)
+    public async Task<TokenResponseDto> GenerateToken(UserDTO user, string clientType)
     {
         if (_twoFactorSettings.Enabled)
         {
@@ -117,7 +117,7 @@ public class JwtTokenService
             // Retornar un token temporal hasta que el usuario valide el código de 2FA
             var tokenString = GeneratePending2FAToken(user);
 
-            return new TokenResponseDTO
+            return new TokenResponseDto
             {
                 AccessToken = tokenString,
                 RefreshToken = null // No se genera RefreshToken hasta que se valide 2FA
@@ -162,7 +162,7 @@ public class JwtTokenService
         return encryptedToken;
     }
 
-    public async Task<TokenResponseDTO> ValidateTwoFactorAndGenerateToken(UserDTO user, string code)
+    public async Task<TokenResponseDto> ValidateTwoFactorAndGenerateToken(UserDTO user, string code)
     {
         // Verifica si el código es correcto y no ha expirado
         if (user.TwoFactorCode != code || user.TwoFactorExpiry < DateTime.UtcNow)
@@ -186,7 +186,7 @@ public class JwtTokenService
         return await GenerateFullToken(user, "user");
     }
 
-    private async Task<TokenResponseDTO> GenerateFullToken(UserDTO user, string clientType)
+    private async Task<TokenResponseDto> GenerateFullToken(UserDTO user, string clientType)
     {
         var claims = new List<Claim>
         {
@@ -233,7 +233,7 @@ public class JwtTokenService
         // Generar Refresh Token
         var refreshToken = await GenerateRefreshToken(user.Id);
 
-        return new TokenResponseDTO
+        return new TokenResponseDto
         {
             AccessToken = encryptedToken,
             RefreshToken = refreshToken
@@ -302,7 +302,7 @@ public class JwtTokenService
         return principal;
     }
 
-    private async Task<RefreshTokenDTO> GenerateRefreshToken(int userId)
+    private async Task<RefreshTokenDto> GenerateRefreshToken(int userId)
     {
         var randomBytes = new byte[32];
         using (var rng = RandomNumberGenerator.Create())
@@ -312,7 +312,7 @@ public class JwtTokenService
 
         var refreshToken = Convert.ToBase64String(randomBytes);
 
-        var rt = new RefreshTokenDTO
+        var rt = new RefreshTokenDto
         {
             Token = refreshToken,
             Expires = DateTime.UtcNow.AddDays(_jwtSettings.RefreshTokenExpiresInDays)

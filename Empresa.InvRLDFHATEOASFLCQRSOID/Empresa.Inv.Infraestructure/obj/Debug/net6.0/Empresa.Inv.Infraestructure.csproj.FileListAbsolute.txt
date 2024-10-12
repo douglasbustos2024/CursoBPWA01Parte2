@@ -88,3 +88,4 @@ C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.I
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\refint\Empresa.Inv.Infraestructure.dll
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.pdb
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\ref\Empresa.Inv.Infraestructure.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.Infraestructure\obj\Debug\net6.0\Empresa.Inv.Infraestructure.sourcelink.json

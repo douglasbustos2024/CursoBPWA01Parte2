@@ -20,12 +20,12 @@ namespace Empresa.Inv.HttpApi.Controllers
 
         private readonly TelemetryClient _telemetryClient;
 
-        private readonly IValidator<ProductDTO> _productValidator;
+        private readonly IValidator<ProductDto> _productValidator;
 
         public FInvController(IInvAppService productsAppService, 
             LinkGenerator linkGenerator,
             IMapper mapper    ,
-            IValidator<ProductDTO> productValidator   ,
+            IValidator<ProductDto> productValidator   ,
             TelemetryClient telemetryClient
             )
         {
@@ -55,7 +55,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             }
 
             // Crear una lista de recursos HATEOAS para cada producto
-            var resourceList = new List<ProductHResourceDTO>();
+            var resourceList = new List<ProductHmResourceDto>();
             foreach (var product in productList)
             {
                /* var productHDto = _mapper.Map<ProductDTO>(product);*/  // Mapeo de ProductDTO a ProductHDTO
@@ -64,9 +64,9 @@ namespace Empresa.Inv.HttpApi.Controllers
             }
 
             // Enlace para crear un nuevo producto (relacionado con la colección)
-            var links = new List<LinkResourceDTO>
+            var links = new List<LinkResourceDto>
             {
-                new LinkResourceDTO
+                new LinkResourceDto
                 {
                     Href = _linkGenerator.GetPathByAction(action: "CreateProduct", controller: "HInv"),
                     Rel = "create-product",
@@ -82,7 +82,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
         // Create a new product
         [HttpPost("CreateProduct")]
-        public async Task<IActionResult> CreateProduct([FromBody] ProductDTO productDto)
+        public async Task<IActionResult> CreateProduct([FromBody] ProductDto productDto)
         {
             if (productDto == null)
             {
@@ -103,7 +103,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             var product = await _productsAppService.CreateProductAsync(productDto);
 
             // Create the HATEOAS resource for the new product
-            var resource = CreateProductResource(_mapper.Map<ProductDTO>(product));
+            var resource = CreateProductResource(_mapper.Map<ProductDto>(product));
 
             // Return the newly created resource with the links
             return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, resource);
@@ -128,14 +128,14 @@ namespace Empresa.Inv.HttpApi.Controllers
             }
 
             // Create the HATEOAS resource for this specific product
-            var resource = CreateProductResource(_mapper.Map<ProductDTO>(product));
+            var resource = CreateProductResource(_mapper.Map<ProductDto>(product));
 
             return Ok(resource);
         }
 
         // Update a product by its ID
         [HttpPut("UpdateProduct/{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, [FromBody] ProductDTO productDto)
+        public async Task<IActionResult> UpdateProduct(int id, [FromBody] ProductDto productDto)
         {
             if (id != productDto.Id)
             {
@@ -164,10 +164,10 @@ namespace Empresa.Inv.HttpApi.Controllers
         // ==========================
 
         // Create HATEOAS resource for a product
-        private ProductHResourceDTO CreateProductResource(ProductDTO product)
+        private ProductHmResourceDto CreateProductResource(ProductDto product)
         {
             var links = GetProductLinks(product.Id);
-            return new ProductHResourceDTO
+            return new ProductHmResourceDto
             {
                 Id = product.Id,
                 Name = product.Name,
@@ -177,23 +177,23 @@ namespace Empresa.Inv.HttpApi.Controllers
         }
 
         // Get the HATEOAS links for a product
-        private List<LinkResourceDTO> GetProductLinks(int id)
+        private List<LinkResourceDto> GetProductLinks(int id)
         {
-            var links = new List<LinkResourceDTO>
+            var links = new List<LinkResourceDto>
             {
-                new LinkResourceDTO
+                new LinkResourceDto
                 {
                     Href = _linkGenerator.GetPathByAction(action: "GetProductById", controller: "HInv", values: new { id }),
                     Rel = "self",
                     Metodo = "GET"
                 },
-                new LinkResourceDTO
+                new LinkResourceDto
                 {
                     Href = _linkGenerator.GetPathByAction(action: "UpdateProduct", controller: "HInv", values: new { id }),
                     Rel = "update-product",
                     Metodo = "PUT"
                 },
-                new LinkResourceDTO
+                new LinkResourceDto
                 {
                     Href = _linkGenerator.GetPathByAction(action: "DeleteProduct", controller: "HInv", values: new { id }),
                     Rel = "delete-product",

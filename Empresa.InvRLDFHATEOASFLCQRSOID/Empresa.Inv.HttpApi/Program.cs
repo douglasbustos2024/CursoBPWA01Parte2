@@ -227,7 +227,7 @@ namespace Empresa.Inv.Web.Host
                 #region Validaciones con FluentValidation
 
                 builder.Services.AddFluentValidationAutoValidation();
-                builder.Services.AddTransient<IValidator<ProductDTO>, ProductValidator>();
+                builder.Services.AddTransient<IValidator<ProductDto>, ProductValidator>();
 
                 #endregion
 

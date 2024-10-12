@@ -9,7 +9,7 @@ namespace Empresa.Inv.EntityFrameworkCore
 
         // Métodos adicionales si es necesario
                        
-         Task<IEnumerable<ProductDTO>> GetProductsPagedAsyncSp(string searchTerm, int pageNumber, int pageSize);
+         Task<IEnumerable<ProductDto>> GetProductsPagedAsyncSp(string searchTerm, int pageNumber, int pageSize);
 
 
     }

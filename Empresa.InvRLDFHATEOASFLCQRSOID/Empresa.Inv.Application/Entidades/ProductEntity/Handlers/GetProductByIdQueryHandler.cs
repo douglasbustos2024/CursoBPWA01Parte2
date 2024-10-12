@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
 {
-    public class GetProductByIdQueryHandler : IRequestHandler<GetProductByIdQuery, ProductDTO>
+    public class GetProductByIdQueryHandler : IRequestHandler<GetProductByIdQuery, ProductDto>
     {
         private readonly IRepository<Product> _productRepository;
         private readonly IMapper _mapper;
@@ -21,21 +21,14 @@ namespace Empresa.Inv.Application.Entidades.ProductEntity.Handlers
             _mapper = mapper;
         }
 
-        public async Task<ProductDTO> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
+        public async Task<ProductDto> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
         {
-            //var product = await _productRepository.GetAll()
-            //    .Include(p => p.Category)
-            //    .Include(p => p.Supplier)
-            //    .FirstOrDefaultAsync(p => p.Id == request.Id);
+            var product = await _productRepository.GetAll()
+                .Include(p => p.Category)
+                .Include(p => p.Supplier)
+                .FirstOrDefaultAsync(p => p.Id == request.Id);
 
-            var psql = _productRepository.GetAll()
-               .Include(p => p.Category)
-               .Include(p => p.Supplier);
-
-            var product = await psql.FirstOrDefaultAsync(p => p.Id == request.Id);
-                                 
-
-            return _mapper.Map<ProductDTO>(product);
+            return _mapper.Map<ProductDto>(product);
         }
     }
  

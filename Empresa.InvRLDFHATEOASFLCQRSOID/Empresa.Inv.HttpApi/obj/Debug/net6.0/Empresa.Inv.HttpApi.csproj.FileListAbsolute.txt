@@ -776,3 +776,4 @@ C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.H
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.pdb
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.genruntimeconfig.cache
 C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\ref\Empresa.Inv.HttpApi.dll
+C:\PrysDbustos\cursos\bp\GIt10\D10\Empresa.InvRLDFHATEOASFLCQRSOID\Empresa.Inv.HttpApi\obj\Debug\net6.0\Empresa.Inv.HttpApi.sourcelink.json

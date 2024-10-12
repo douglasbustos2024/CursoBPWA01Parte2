@@ -25,7 +25,7 @@ namespace Empresa.Inv.EntityFrameworkCore
                            
 
         // Método específico para ejecutar un procedimiento almacenado en el contexto de Product
-        public async Task<IEnumerable<ProductDTO>> GetProductsPagedAsyncSp(
+        public async Task<IEnumerable<ProductDto>> GetProductsPagedAsyncSp(
             string searchTerm, int pageNumber, int pageSize
             )
         {
@@ -42,7 +42,7 @@ namespace Empresa.Inv.EntityFrameworkCore
             // Ejecutar un procedimiento almacenado que devuelve resultados
             var products = await ExecuteStoredProcedureWithResultsAsync("EXEC GetProductsPaged @SearchTerm,@PageNumber,@PageSize", parameters);
 
-            return _mapper.Map<IEnumerable<ProductDTO>>(products);
+            return _mapper.Map<IEnumerable<ProductDto>>(products);
             // Trabaja con los resultados
         }
                  

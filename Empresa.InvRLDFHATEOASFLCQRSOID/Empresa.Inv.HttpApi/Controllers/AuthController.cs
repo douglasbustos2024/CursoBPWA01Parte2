@@ -52,7 +52,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
           
 
-            var response = new AuthResponseDTO
+            var response = new AuthResponseDto
             {
                 IsSuccess = true,
                 AccessToken = tokenResponse.AccessToken,
