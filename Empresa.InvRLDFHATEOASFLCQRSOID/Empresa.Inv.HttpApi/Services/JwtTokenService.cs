@@ -14,6 +14,8 @@ using Empresa.Inv.Dtos;
 using Empresa.Inv.HttpApi.Services;
 using Empresa.Inv.Infraestructure;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography;
+
 
 public class JwtTokenService
 {
@@ -61,9 +63,16 @@ public class JwtTokenService
     {
         if (_twoFactorSettings.Enabled)
         {
-            // Generar el código de verificación y enviarlo por correo
-            var verificationCode = new Random().Next(100000, 999999).ToString();
-            user.TwoFactorCode = verificationCode;
+
+
+         byte[] randomNumber = new byte[4];
+         using (var rng = RandomNumberGenerator.Create())
+         {
+             rng.GetBytes(randomNumber);
+         }
+         int verificationCode = BitConverter.ToInt32(randomNumber, 0) % 900000 + 100000; // Gera un número entre 100000 y 999999
+                  
+            user.TwoFactorCode = verificationCode.ToString();
             user.TwoFactorExpiry = DateTime.UtcNow.AddMinutes(10); // El código expira en 10 minutos
 
 
