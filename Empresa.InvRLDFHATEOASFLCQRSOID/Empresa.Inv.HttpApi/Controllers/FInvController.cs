@@ -121,22 +121,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             return Ok(updatedProduct);
         }
 
-        // Delete a product by its ID
-        [HttpDelete("DeleteProduct/{id}")]
-        public async Task<IActionResult> DeleteProduct(int id)
-        {
-            var result = await _productsAppService.DeleteProductAsync(id);
-            if (!result)
-            {
-                return NotFound($"Product with ID {id} not found.");
-            }
-
-            return NoContent();
-        }
-
-       
-  
-
+                
 
     }
 }

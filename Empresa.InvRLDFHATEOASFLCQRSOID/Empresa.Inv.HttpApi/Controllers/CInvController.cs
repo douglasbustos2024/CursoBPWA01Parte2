@@ -31,29 +31,7 @@ namespace Empresa.Inv.HttpApi.Controllers
         }
 
       
-
-
-        [HttpGet("GetProductsSp")]
-        public async Task<IActionResult> GetProductsSp([FromQuery] string searchTerm, [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
-        {
-            // Obtiene los productos del AppService
-            var productList = await _productsAppService.GetProductsSp(searchTerm, pageNumber, pageSize);
-
-            // Verifica si la lista de productos es nula o vacía
-            if (productList == null || !productList.Any())
-            {
-                return NotFound("No products found.");
-            }
-
-          
-      
-
-            // Retorna los productos y los enlaces HATEOAS
-            return Ok(new { productList });
-        }
-
-
-
+               
         
 
         [HttpPost]
@@ -78,32 +56,7 @@ namespace Empresa.Inv.HttpApi.Controllers
 
 
  
-
-        // Update a product by its ID
-        [HttpPut("UpdateProduct/{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, [FromBody] ProductDto productDto)
-        {
-            if (id != productDto.Id)
-            {
-                return BadRequest("Product ID does not match the URL parameter.");
-            }
-
-            var updatedProduct = await _productsAppService.UpdateProductAsync(id, productDto);
-            return Ok(updatedProduct);
-        }
-
-        // Delete a product by its ID
-        [HttpDelete("DeleteProduct/{id}")]
-        public async Task<IActionResult> DeleteProduct(int id)
-        {
-            var result = await _productsAppService.DeleteProductAsync(id);
-            if (!result)
-            {
-                return NotFound($"Product with ID {id} not found.");
-            }
-
-            return NoContent();
-        }
+      
 
            
     }
