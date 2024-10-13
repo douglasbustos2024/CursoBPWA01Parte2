@@ -14,18 +14,14 @@ namespace Empresa.Inv.HttpApi.Controllers
     [ApiController]
     [Route("api/[controller]")]
     public class CInvController : ControllerBase
-    {
-        private readonly IInvAppService _productsAppService;
+    {                                                               
   
      
         private readonly IMediator _mediator;
 
-        public CInvController(IInvAppService productsAppService,   
-            IMapper mapper   , IMediator mediator
+        public CInvController(IMediator mediator
             )
         {
-            _productsAppService = productsAppService;
- 
             
             _mediator = mediator;
         }
