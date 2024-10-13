@@ -16,24 +16,21 @@ namespace Empresa.Inv.HttpApi.Controllers
     public class CInvController : ControllerBase
     {
         private readonly IInvAppService _productsAppService;
-        private readonly LinkGenerator _linkGenerator;
+  
      
         private readonly IMediator _mediator;
 
-        public CInvController(IInvAppService productsAppService, 
-            LinkGenerator linkGenerator,
+        public CInvController(IInvAppService productsAppService,   
             IMapper mapper   , IMediator mediator
             )
         {
             _productsAppService = productsAppService;
-            _linkGenerator = linkGenerator;
+ 
             
             _mediator = mediator;
         }
 
-        // ==========================
-        // ACTIONS FOR RESOURCE COLLECTION (PRODUCTS)
-        // ==========================
+      
 
 
         [HttpGet("GetProductsSp")]
@@ -48,27 +45,11 @@ namespace Empresa.Inv.HttpApi.Controllers
                 return NotFound("No products found.");
             }
 
-            // Crear una lista de recursos HATEOAS para cada producto
-            var resourceList = new List<ProductHmResourceDto>();
-            foreach (var product in productList)
-            {
-                 var resource = CreateProductResource(product);  // Crear recurso HATEOAS
-                resourceList.Add(resource);
-            }
-
-            // Enlace para crear un nuevo producto (relacionado con la colección)
-            var links = new List<LinkResourceDto>
-            {
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "CreateProduct", controller: "HInv"),
-                    Rel = "create-product",
-                    Metodo = "POST"
-                }
-            };
+          
+      
 
             // Retorna los productos y los enlaces HATEOAS
-            return Ok(new { Products = resourceList, Links = links });
+            return Ok(new { productList });
         }
 
 
@@ -124,45 +105,6 @@ namespace Empresa.Inv.HttpApi.Controllers
             return NoContent();
         }
 
-       
-        // Create HATEOAS resource for a product
-        private ProductHmResourceDto CreateProductResource(ProductDto product)
-        {
-            var links = GetProductLinks(product.Id);
-            return new ProductHmResourceDto
-            {
-                Id = product.Id,
-                Name = product.Name,
-                Price = product.Price,
-                Enlaces = links
-            };
-        }
-
-        // Get the HATEOAS links for a product
-        private List<LinkResourceDto> GetProductLinks(int id)
-        {
-            var links = new List<LinkResourceDto>
-            {
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "GetProductById", controller: "HInv", values: new { id }),
-                    Rel = "self",
-                    Metodo = "GET"
-                },
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "UpdateProduct", controller: "HInv", values: new { id }),
-                    Rel = "update-product",
-                    Metodo = "PUT"
-                },
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "DeleteProduct", controller: "HInv", values: new { id }),
-                    Rel = "delete-product",
-                    Metodo = "DELETE"
-                }
-            };
-            return links;
-        }
+           
     }
 }

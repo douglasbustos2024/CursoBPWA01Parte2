@@ -54,27 +54,10 @@ namespace Empresa.Inv.HttpApi.Controllers
                 return NotFound("No products found.");
             }
 
-            // Crear una lista de recursos HATEOAS para cada producto
-            var resourceList = new List<ProductHmResourceDto>();
-            foreach (var product in productList)
-            {
-                 var resource = CreateProductResource(product);  // Crear recurso HATEOAS
-                resourceList.Add(resource);
-            }
-
-            // Enlace para crear un nuevo producto (relacionado con la colección)
-            var links = new List<LinkResourceDto>
-            {
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "CreateProduct", controller: "HInv"),
-                    Rel = "create-product",
-                    Metodo = "POST"
-                }
-            };
+        
 
             // Retorna los productos y los enlaces HATEOAS
-            return Ok(new { Products = resourceList, Links = links });
+            return Ok(new { Products = productList });
         }
 
 
@@ -95,17 +78,15 @@ namespace Empresa.Inv.HttpApi.Controllers
             {
                 return BadRequest(validationResult.Errors);
             }
-
-
+                                                                          
 
             // Call the service to create the product
             var product = await _productsAppService.CreateProductAsync(productDto);
 
-            // Create the HATEOAS resource for the new product
-            var resource = CreateProductResource(_mapper.Map<ProductDto>(product));
+      
 
             // Return the newly created resource with the links
-            return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, resource);
+            return CreatedAtAction(nameof(GetProductById), new { id = product.Id } );
         }
 
         // ==========================
@@ -126,10 +107,9 @@ namespace Empresa.Inv.HttpApi.Controllers
                 return NotFound();
             }
 
-            // Create the HATEOAS resource for this specific product
-            var resource = CreateProductResource(_mapper.Map<ProductDto>(product));
+            
 
-            return Ok(resource);
+            return Ok(product);
         }
 
         // Update a product by its ID
@@ -158,52 +138,7 @@ namespace Empresa.Inv.HttpApi.Controllers
             return NoContent();
         }
 
-        // ==========================
-        // HELPER METHODS
-        // ==========================
-
-        // Create HATEOAS resource for a product
-        private ProductHmResourceDto CreateProductResource(ProductDto product)
-        {
-            var links = GetProductLinks(product.Id);
-            return new ProductHmResourceDto
-            {
-                Id = product.Id,
-                Name = product.Name,
-                Price = product.Price,
-                Enlaces = links
-            };
-        }
-
-        // Get the HATEOAS links for a product
-        private List<LinkResourceDto> GetProductLinks(int id)
-        {
-            var links = new List<LinkResourceDto>
-            {
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "GetProductById", controller: "HInv", values: new { id }),
-                    Rel = "self",
-                    Metodo = "GET"
-                },
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "UpdateProduct", controller: "HInv", values: new { id }),
-                    Rel = "update-product",
-                    Metodo = "PUT"
-                },
-                new LinkResourceDto
-                {
-                    Href = _linkGenerator.GetPathByAction(action: "DeleteProduct", controller: "HInv", values: new { id }),
-                    Rel = "delete-product",
-                    Metodo = "DELETE"
-                }
-            };
-            return links;
-        }
-
-
-
+       
   
 
 
