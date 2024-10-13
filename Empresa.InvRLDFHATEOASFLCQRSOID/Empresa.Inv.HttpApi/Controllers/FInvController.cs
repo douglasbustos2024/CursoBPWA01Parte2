@@ -15,23 +15,19 @@ namespace Empresa.Inv.HttpApi.Controllers
     public class FInvController : ControllerBase
     {
         private readonly IInvAppService _productsAppService;
-        private readonly LinkGenerator _linkGenerator;
-        private readonly IMapper _mapper;
+                                                           
 
         private readonly TelemetryClient _telemetryClient;
 
         private readonly IValidator<ProductDto> _productValidator;
 
-        public FInvController(IInvAppService productsAppService, 
-            LinkGenerator linkGenerator,
-            IMapper mapper    ,
+        public FInvController(IInvAppService productsAppService,        
             IValidator<ProductDto> productValidator   ,
             TelemetryClient telemetryClient
             )
         {
             _productsAppService = productsAppService;
-            _linkGenerator = linkGenerator;
-            _mapper = mapper;
+            
             _productValidator = productValidator;
             _telemetryClient = telemetryClient;
 
